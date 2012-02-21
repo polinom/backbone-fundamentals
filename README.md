@@ -1,6 +1,10 @@
 #Developing Backbone.js Applications
-A book on Backbone.js targeted at beginners and advanced users alike
+#Розроботка Backbone.js Приложений
 
+A book on Backbone.js targeted at beginners and advanced users alike
+Книга розчитана как для начинающих так и для опытных пользователей
+ 
+ 
 This is the home of 'Developing Backbone.js Applications', an (in-progress) book about the Backbone.js framework for structuring JavaScript applications. It is released under a [CC](http://creativecommons.org/licenses/by-nc-sa/3.0/)-license.
 
 I am quite pleased that this book will be out in physical form in a few months time via [O'Reilly Media](http://oreilly.com). Readers will have the option of purchasing the latest version in either print or a number of digital formats then or can grab a copy for free from this repository.
